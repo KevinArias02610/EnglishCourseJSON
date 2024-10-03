@@ -1,0 +1,105 @@
+{
+  "modulo": 1,
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Cuál es la capital de Francia?",
+      "opciones": [
+        { "id": 1, "texto": "París", "esCorrecta": true },
+        { "id": 2, "texto": "Londres", "esCorrecta": false },
+        { "id": 3, "texto": "Madrid", "esCorrecta": false },
+        { "id": 4, "texto": "Roma", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "¿Qué es 2 + 2?",
+      "opciones": [
+        { "id": 1, "texto": "3", "esCorrecta": false },
+        { "id": 2, "texto": "4", "esCorrecta": true },
+        { "id": 3, "texto": "5", "esCorrecta": false },
+        { "id": 4, "texto": "6", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "¿Cuál es el color del cielo durante un día despejado?",
+      "opciones": [
+        { "id": 1, "texto": "Azul", "esCorrecta": true },
+        { "id": 2, "texto": "Rojo", "esCorrecta": false },
+        { "id": 3, "texto": "Verde", "esCorrecta": false },
+        { "id": 4, "texto": "Amarillo", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "¿Cuántos días tiene una semana?",
+      "opciones": [
+        { "id": 1, "texto": "5", "esCorrecta": false },
+        { "id": 2, "texto": "6", "esCorrecta": false },
+        { "id": 3, "texto": "7", "esCorrecta": true },
+        { "id": 4, "texto": "8", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "¿Cuál es el océano más grande del mundo?",
+      "opciones": [
+        { "id": 1, "texto": "Atlántico", "esCorrecta": false },
+        { "id": 2, "texto": "Pacífico", "esCorrecta": true },
+        { "id": 3, "texto": "Índico", "esCorrecta": false },
+        { "id": 4, "texto": "Ártico", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "¿Qué animal es conocido como el rey de la selva?",
+      "opciones": [
+        { "id": 1, "texto": "Tigre", "esCorrecta": false },
+        { "id": 2, "texto": "Elefante", "esCorrecta": false },
+        { "id": 3, "texto": "León", "esCorrecta": true },
+        { "id": 4, "texto": "Jaguar", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "¿Cuál es el planeta más cercano al sol?",
+      "opciones": [
+        { "id": 1, "texto": "Mercurio", "esCorrecta": true },
+        { "id": 2, "texto": "Venus", "esCorrecta": false },
+        { "id": 3, "texto": "Tierra", "esCorrecta": false },
+        { "id": 4, "texto": "Marte", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "¿Qué país está directamente al sur de los Estados Unidos?",
+      "opciones": [
+        { "id": 1, "texto": "México", "esCorrecta": true },
+        { "id": 2, "texto": "Canadá", "esCorrecta": false },
+        { "id": 3, "texto": "Brasil", "esCorrecta": false },
+        { "id": 4, "texto": "Argentina", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "¿Cuántos continentes hay en el mundo?",
+      "opciones": [
+        { "id": 1, "texto": "5", "esCorrecta": false },
+        { "id": 2, "texto": "6", "esCorrecta": false },
+        { "id": 3, "texto": "7", "esCorrecta": true },
+        { "id": 4, "texto": "8", "esCorrecta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "¿En qué año llegó el hombre a la Luna?",
+      "opciones": [
+        { "id": 1, "texto": "1965", "esCorrecta": false },
+        { "id": 2, "texto": "1969", "esCorrecta": true },
+        { "id": 3, "texto": "1971", "esCorrecta": false },
+        { "id": 4, "texto": "1980", "esCorrecta": false }
+      ]
+    }
+  ]
+}
